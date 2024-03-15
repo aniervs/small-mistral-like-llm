@@ -13,4 +13,4 @@ This was also an exercise for me to practice einops in a real-world scenario.
 
 ## TODO
 
-Test it's ok in a different device from CPU (CUDA or MPS)
+- Add RoPE
